@@ -14,3 +14,4 @@
 		</conditions>
 		<action type="Rewrite" url="pay.php?s={R:1}"/>
 	</rule>
+
